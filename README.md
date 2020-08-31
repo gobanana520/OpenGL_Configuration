@@ -1,10 +1,19 @@
 GLFW/GLEW/GLM/Freeglut/AntTweakBar and NanoGUI configuration
 
+# Introduction
+
 This is a windows version of GLFW/GLEW/GLM/FreeGLUT/AntTweakBar and nanogui binary file collection.
 
 This version is ONLY used for Visual Studio 2019 Release(Debug)/x64 mode (Probabily it is also compatible for VS2015 and VS2017).
 
-For other versions of binary file, you can compile it on your own using cmake-gui windows version
+For other versions of binary file, you can compile it on your own using cmake-gui windows version.
+
+GLEW, GLFW and GLM has been updated to below versions:
+
+    glew-2.1.0
+    glfw-3.3.2
+    glm-0.9.9.8
+
 
 # Usage
 
