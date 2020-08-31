@@ -10,7 +10,7 @@
       <AdditionalIncludeDirectories>$(OPENGL)\glew\include;$(OPENGL)\glfw\include;$(OPENGL)\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>$(OPENGL)\glew\lib\Release\x64;$(OPENGL)\glfw\lib-vc2015;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(OPENGL)\glew\lib\Release\x64;$(OPENGL)\glfw\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;glew32s.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
