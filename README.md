@@ -44,11 +44,11 @@ e.g.
 
 4.a:  View->Other Windows->Property Manager
 
-<img src="./resources/property_manager.a.png" />
+<img src="./resources/property_manager.a.png" width="600"/>
 
 4.b: Add Existing Property Sheet
 
-<img src="./resources/property_manager.b.png"/>
+<img src="./resources/property_manager.b.png" width="600"/>
 
 Make sure the project name itself is selected before adding the existing property sheet. Select OPENGL.props and NANOGUI.props here(Please add OPENGL.props first) and they should appear in the debug and release folder once added
 
